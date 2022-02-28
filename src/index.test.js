@@ -1,5 +1,8 @@
-describe ( 'index', () =>{
- it('should add item', () => {
-  expect(true).toBeTruthy();
- })
-})
+/**
+ * @jest-environment jsdom
+ */
+
+ test('Add Test', () => {
+    const addItem = document.createElement('div');
+    expect(element).not.toBeNull();
+  });
