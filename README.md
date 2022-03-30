@@ -71,13 +71,12 @@ npx eslint .
 ```
 ##### from parent source directory
 
-
-
 ## Authors
 
 👤 **Emmanuel Jolugbo**
 
 - GitHub: [@Thermiee](https://github.com/thermiee)
+
 
 ## 🤝 Contributing
 
